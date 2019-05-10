@@ -1,0 +1,24 @@
+PODS:
+  - razorpay-pod (1.0.26)
+  - SVProgressHUD (2.2.5)
+  - Toast-Swift (4.0.0)
+
+DEPENDENCIES:
+  - razorpay-pod (= 1.0.26)
+  - SVProgressHUD
+  - Toast-Swift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - razorpay-pod
+    - SVProgressHUD
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  razorpay-pod: 6f1eeb10e473b4a88baee1cd054eed76b926c923
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  Toast-Swift: 594b5c5e5129f15438e410207e43287f027b3c00
+
+PODFILE CHECKSUM: 9ffb25e9d07c197e71b89f7dda343883c0369b7d
+
+COCOAPODS: 1.5.3
